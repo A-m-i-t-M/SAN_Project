@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs and experiment outputs
+experiments/*.csv
+experiments/*.log
+experiments/*.txt
+
+# Plot outputs
+*.png
+*.svg
+plots/
+
+# System files (Windows/Mac/Linux)
+Thumbs.db
+.DS_Store
+*.swp
+
+# IDE configs
+.vscode/
+.idea/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
